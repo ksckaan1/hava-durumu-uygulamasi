@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    padding: 10px;
+}
+#sonuc{
+    display: none;
+    margin-top: 5px;
+    border-top: 1px solid darkgray;
+}
